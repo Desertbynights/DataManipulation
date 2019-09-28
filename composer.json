@@ -1,5 +1,5 @@
 {
-  "name": "Desertbynights/DateManipulation",
+  "name": "desertbynight/datemanipulation",
   "description": "Transforms data object in italian format (day month year). I built it just for practice.",
   "keywords": ["DateTime", "italian"],
   "license": "MIT",
@@ -21,7 +21,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Desertbynights\\DateManipulation\\": "src/"
+      "desertbynight\\datemanipulation\\": "src/"
     }
   }
 }
