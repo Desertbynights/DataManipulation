@@ -1,4 +1,4 @@
-# DataManipulation
+# DateManipulation
 
 Introduction
 ------------
