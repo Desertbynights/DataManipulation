@@ -1,6 +1,6 @@
 <?php
 
-namespace desertbynights\DateManipulation;
+namespace desertbynight\datemanipulation;
 
 class ItalianDate
 {
